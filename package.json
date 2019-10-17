@@ -1,0 +1,14 @@
+{
+  "name": "Graduacion",
+  "version": "1.0.0",
+  "description": "Sitio web de gradución de 2018-2021",
+  "main": "index.js",
+  "author": "FORM",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp": "^4.0.2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
