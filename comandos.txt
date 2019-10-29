@@ -1,0 +1,15 @@
+--locales
+git init
+git add -A
+
+git config --global user.name myuser
+git config --global user.email myemail@unipolidgo.edu.mx
+
+
+git commit -m "mensaje"
+
+git status
+
+--subir a github
+git remote add elnombrequelequierasponer url
+git push elnombrequelepusiste master
