@@ -6,7 +6,7 @@
   "author": "FORM",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "gulp": "^4.0.2",
     "jquery": "^3.4.1",
